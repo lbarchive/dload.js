@@ -1,5 +1,8 @@
 // Code snippets for dynamically loading JavaScript and CSS
 // Copyright    : This script has been placed in the public domain.
+// Gist         : https://gist.github.com/livibetter/5211293
+// Blog post    : http://blog.yjl.im/2013/03/dynamically-loading-javascript-and-css.html
+// Last update  : 2013-03-21T07:35:25Z
 // Author       : Yu-Jie Lin
 // Website      : http://yjl.im
 
