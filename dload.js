@@ -4,6 +4,8 @@
 // Author       : Yu-Jie Lin
 // Website      : https://github.com/livibetter/dload.js
 
+var dload_version = '0.1.0';
+
 function load_CSS(src, cb) {
   var link = document.createElement('link');
   link.type = 'text/css';
